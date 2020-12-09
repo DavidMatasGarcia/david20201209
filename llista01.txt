@@ -1,0 +1,5 @@
+afegim llista de productes:
+ferro
+filferro
+coure
+ganxos
